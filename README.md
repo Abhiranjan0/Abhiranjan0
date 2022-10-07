@@ -13,8 +13,8 @@ Abhiranjan0
 ⚡ Fun fact I think I am funny.
 
 Connect with me:
- abhiahekranjan7390@gmail.com
- abhiranjan73 
+ [abhishekranjan7390@gmail.com](https://auth.geeksforgeeks.org/user/abhishekranjan7390)
+ [abhiranjan73 ](https://leetcode.com/Abhiranjan73/)
 
 Languages and Tools:
 c git java mysql
