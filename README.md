@@ -13,7 +13,8 @@ Abhiranjan0
 ⚡ Fun fact I think I am funny.
 
 Connect with me:
-anshuman pandey abhiahekranjan7390 abhiranjan73 
+ abhiahekranjan7390@gmail.com
+ abhiranjan73 
 
 Languages and Tools:
 c git java mysql
