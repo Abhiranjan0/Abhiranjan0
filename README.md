@@ -1,11 +1,20 @@
-- 👋 Hi, I’m Abhishek Ranjan
-- 🌱 I’m currently learning DSA and Web Developement
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- https://www.linkedin.com/in/abhishek-ranjan-3573b122a/
-- https://auth.geeksforgeeks.org/user/abhishekranjan7390
+Hi 👋, Abhishek Ranjan
 
-<!---
-Abhiranjan0/Abhiranjan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Coding
+
+anshu-6537
+
+  🌱 I’m currently learning DSA , MERN
+
+💬 Ask me about Java
+
+📫 How to reach me abhishekranjan7390@gmail.com
+
+⚡ Fun fact I think I am funny.
+
+Connect with me:
+anshuman pandey abhiahekranjan7390 abhiranjan73 
+
+Languages and Tools:
+c git java mysql
+
