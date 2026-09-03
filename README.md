@@ -32,7 +32,7 @@ focus:
   - Enterprise AI solutions with Microsoft Copilot Studio & Azure AI
   - Conversational AI agents & business workflow automation
   - Backend engineering with Java, Spring Boot & REST APIs
-currently_learning: [DSA, MERN Stack]
+currently_learning: [DSA, JAVA, AI, LLM RAG]
 ask_me_about: Java, Azure AI, Copilot Studio
 fun_fact: I think I'm funny 😄
 ```
