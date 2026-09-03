@@ -2,7 +2,7 @@
 <h3 align="center">☁️ Cloud & AI Engineer | Building intelligent enterprise solutions on Azure</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhiranjan73/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-ranjan-3573b122a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:abhishekranjan7390@gmail.com">
@@ -102,7 +102,7 @@ fun_fact: I think I'm funny 😄
 
 ### 🏆 Achievements
 
-- 🧩 Solved **300+ DSA problems** across LeetCode & GeeksforGeeks
+- 🧩 Solved **400+ DSA problems** across LeetCode & GeeksforGeeks
 - 🏅 Qualified **TCS CodeVita Season 12** – Round 1
 - 🌐 Contributed to **Hacktoberfest 2022** open-source projects
 - 🎓 **AI-901 (Azure AI Fundamentals)** & **Claude Certified Developer**
